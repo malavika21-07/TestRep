@@ -1,3 +1,4 @@
 # TestRep
 Testing repository
-I am max
+I am max\n
+Hey everyone
